@@ -5,7 +5,7 @@ import { Component, OnInit } from "@angular/core";
   templateUrl: "icons.component.html"
 })
 export class IconsComponent implements OnInit {
-  constructor() {}
+  constructor() { }
 
-  ngOnInit() {}
+  ngOnInit() { }
 }

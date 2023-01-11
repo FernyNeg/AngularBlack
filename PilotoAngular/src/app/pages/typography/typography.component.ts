@@ -5,7 +5,7 @@ import { Component, OnInit } from "@angular/core";
   templateUrl: "typography.component.html"
 })
 export class TypographyComponent implements OnInit {
-  constructor() {}
+  constructor() { }
 
-  ngOnInit() {}
+  ngOnInit() { }
 }

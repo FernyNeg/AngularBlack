@@ -35,4 +35,4 @@ import { NgbModule } from "@ng-bootstrap/ng-bootstrap";
     // RtlComponent
   ]
 })
-export class AdminLayoutModule {}
+export class AdminLayoutModule { }
